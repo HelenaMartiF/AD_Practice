@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Helen/Documents/IA/IA%20II/RepHM/Practicas/AD_Practice/mlruns/273227069336235965/1d981482f36c4d08b4a55c938bdb32af/artifacts
+end_time: 1734352053275
+entry_point_name: ''
+experiment_id: '273227069336235965'
+lifecycle_stage: active
+run_id: 1d981482f36c4d08b4a55c938bdb32af
+run_name: RandomForest-experiment
+run_uuid: 1d981482f36c4d08b4a55c938bdb32af
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734352046978
+status: 3
+tags: []
+user_id: Helen

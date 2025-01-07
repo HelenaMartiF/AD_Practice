@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Helen/Documents/IA/IA%20II/RepHM/Practicas/AD_Practice/mlruns/273227069336235965/73240952d4b743199d2d7e44da5edccf/artifacts
+end_time: 1734352061430
+entry_point_name: ''
+experiment_id: '273227069336235965'
+lifecycle_stage: active
+run_id: 73240952d4b743199d2d7e44da5edccf
+run_name: DecisionTree-experiment
+run_uuid: 73240952d4b743199d2d7e44da5edccf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734352057372
+status: 3
+tags: []
+user_id: Helen

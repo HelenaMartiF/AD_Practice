@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Helen/Documents/IA/IA%20II/RepHM/Practicas/AD_Practice/mlruns/273227069336235965/db963705ba4249aab35607e0add8122e/artifacts
+end_time: 1734352065527
+entry_point_name: ''
+experiment_id: '273227069336235965'
+lifecycle_stage: active
+run_id: db963705ba4249aab35607e0add8122e
+run_name: SVC-experiment
+run_uuid: db963705ba4249aab35607e0add8122e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1734352061443
+status: 3
+tags: []
+user_id: Helen
